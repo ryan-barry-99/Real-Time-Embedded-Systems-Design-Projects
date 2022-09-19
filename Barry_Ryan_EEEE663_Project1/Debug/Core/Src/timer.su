@@ -1,0 +1,2 @@
+../Core/Src/timer.c:11:6:TIM_Init	4	static
+../Core/Src/timer.c:26:17:TIM2_get_count	4	static
